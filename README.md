@@ -1,3 +1,4 @@
+
 **Data Analytics Project I: Data Cleaning, Combining, and Pivot Table Creation**
 
 In the initial phase of the Data Analytics Project I, the primary focus was on ensuring the integrity and completeness of the raw data, a crucial step in any data analysis endeavor. The process involved several key steps to clean and combine disparate datasets for a comprehensive analysis.
@@ -20,7 +21,7 @@ In the initial phase of the Data Analytics Project I, the primary focus was on e
 
 *Step 7:* The focus then shifted to the creation of Pivot Tables for a structured analysis. This involved selecting all columns and rows in the Orders Table and creating a Pivot Table, offering a comprehensive overview of the data.
 
-*Steps 8-9:* Initial pivot tables were generated, featuring Line Charts for coffee flavors over the years and Bar Charts depicting Total Sales by country and the Top 5 Customers. Display options, such as Ascending and Top 5, were highlighted, providing flexibility in data presentation.
+*Steps 8:* Initial pivot tables were generated, featuring Line Charts for coffee flavors over the years and Bar Charts depicting Total Sales by country and the Top 5 Customers. Display options, such as Ascending and Top 5, were highlighted, providing flexibility in data presentation.
 
 *Steps 10-11:* To enhance the user experience and create a dynamic dashboard, Slicers and Timeliners options were incorporated. These features allowed for easy customization by enabling users to select specific parameters such as Size and Type, with corresponding charts dynamically adjusting. The final touch involved arranging the charts for an intuitive and dynamic view of the dashboard.
 
